@@ -1,9 +1,9 @@
 [submodule "rule-engine"]
 	path = rule-engine
-	url = git@github.com:jetlinks/rule-engine.git
+	url = git@github.com:SevenSQL/rule-engine.git
 [submodule "jetlinks-core"]
 	path = jetlinks-core
-	url = git@github.com:jetlinks/jetlinks-core.git
+	url = git@github.com:SevenSQL/jetlinks-core.git
 [submodule "jetlinks-supports"]
 	path = jetlinks-supports
-	url = git@github.com:jetlinks/jetlinks-supports.git
+	url = git@github.com:SevenSQL/jetlinks-supports.git
